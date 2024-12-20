@@ -1,5 +1,5 @@
 # Advent of Code
-![](https://img.shields.io/badge/day%20📅-20-blue) ![](https://img.shields.io/badge/stars%20⭐-38-red) ![](https://img.shields.io/badge/days%20completed-19-yellow)
+![](https://img.shields.io/badge/day%20📅-20-blue) ![](https://img.shields.io/badge/stars%20⭐-40-red) ![](https://img.shields.io/badge/days%20completed-20-yellow)
 
 ![image](https://github.com/user-attachments/assets/39d83551-5e78-4178-a4af-9b3194d3b97e)
 
